@@ -1,13 +1,16 @@
 # ott-platform-analysis
 1. Project Title / Headline
+
 OTT Content Analytics: Netflix vs Amazon Prime Video Dashboard
 A dynamic and interactive Power BI dashboard designed to analyze and compare content libraries of leading OTT platforms based on genres, ratings, content type, regions, and release trends.
 
 2. Short Description / Purpose
+   
 This dashboard provides a comparative analysis of Netflix and Amazon Prime Video to help users understand differences in content strategy, audience targeting, and platform growth.
 It enables data-driven insights through interactive visuals and platform-wise comparison using page navigation.
 
 3. Tech Stack
+
 The dashboard was built using the following tools and technologies:
 Power BI Desktop – Primary tool for building interactive dashboards
 Power Query – Data cleaning, transformation, and preparation
@@ -16,6 +19,7 @@ Data Modeling – Relationships between content, genre, rating, and country tabl
 File Format – .pbix for development and .png for dashboard previews
 
 4. Data Source
+
 The data used in this project was collected from Kaggle and includes publicly available datasets for OTT platforms:
 Netflix Movies & TV Shows Dataset (Kaggle)
 Amazon Prime Video Dataset (Kaggle)
@@ -29,8 +33,10 @@ Release year
 Director
 These datasets were cleaned, transformed, and modeled using Power Query before visualization in Power BI
 
-Features / Highlights
+5. Features / Highlights
+
 1. Business Problem :
+
 OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
 Because of this, it is difficult to:
   Compare content between platforms
@@ -40,6 +46,7 @@ Because of this, it is difficult to:
 Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
 
 2. Goal of the Dashboard :
+
 The goal of this dashboard is to:
   Compare Netflix and Prime Video content using key metrics
   Analyze content by genre, rating, and type (Movies vs TV Shows)
@@ -48,6 +55,7 @@ The goal of this dashboard is to:
 This helps users make informed decisions based on visual insights.
 
 3. Walkthrough of Key Visuals :
+ 
   KPI Cards: Show total titles, genres, directors, and release year range
   Rating-wise Chart: Shows audience age categories and maturity levels
   Genre-wise Chart: Displays most popular content genres
@@ -57,6 +65,7 @@ This helps users make informed decisions based on visual insights.
   Page Navigation: Allows easy comparison between Netflix and Prime Video dashboards
 
 4. Business Impact & Insights :
+
   Netflix focuses more on international and mature-rated content
   Prime Video has a more balanced mix of family-friendly and regional content
   Drama and Comedy are the most popular genres on both platforms
