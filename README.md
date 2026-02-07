@@ -37,8 +37,7 @@
     Country,
     Release year,
     Director,
-  
-   These datasets were cleaned, transformed, and modeled using Power Query before visualization in Power BI
+    These datasets were cleaned, transformed, and modeled using Power Query before visualization in Power BI
 
 5. Features / Highlights
 
