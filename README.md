@@ -27,24 +27,22 @@
    The data used in this project was collected from Kaggle and includes publicly available datasets for OTT platforms:
    
    • Netflix Movies & TV Shows Dataset (Kaggle)
-   
    • Amazon Prime Video Dataset (Kaggle)
    
    The datasets contain information such as:
-  
-  • Title name
-    Content type (Movie / TV Show)
-    Genre
-    Age rating 
-    Country
-    Release year
-    Director
+    Title name,
+    Content type (Movie / TV Show),
+    Genre,
+    Age rating, 
+    Country,
+    Release year,
+    Director,
   
   These datasets were cleaned, transformed, and modeled using Power Query before visualization in Power BI
 
 5. Features / Highlights
 
-•  Business Problem : OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
+1. Business Problem : OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
    Because of this, it is difficult to:
    Compare content between platforms,
    Understand which genres and ratings are most common,
@@ -52,15 +50,15 @@
    Track how content has grown over the years,
    Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
 
-• Goal of the Dashboard :
-  The goal of this dashboard is to:
-  Compare Netflix and Prime Video content using key metrics,
-  Analyze content by genre, rating, and type (Movies vs TV Shows),
-  Understand regional content distribution,
-  Track content growth trends over time,
-  This helps users make informed decisions based on visual insights.
+2. Goal of the Dashboard :
+   The goal of this dashboard is to:
+   Compare Netflix and Prime Video content using key metrics,
+   Analyze content by genre, rating, and type (Movies vs TV Shows),
+   Understand regional content distribution,
+   Track content growth trends over time,
+   This helps users make informed decisions based on visual insights.
 
-• Walkthrough of Key Visuals :
+3. Walkthrough of Key Visuals :
  
   • KPI Cards: 
   
@@ -90,12 +88,12 @@
   
   -Allows easy comparison between Netflix and Prime Video dashboards
 
-• Business Impact & Insights :
-  Netflix focuses more on international and mature-rated content,
-  Prime Video has a more balanced mix of family-friendly and regional content,
-  Drama and Comedy are the most popular genres on both platforms,
-  OTT content production increased significantly after 2015
-  This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
+4. Business Impact & Insights :
+   Netflix focuses more on international and mature-rated content,
+   Prime Video has a more balanced mix of family-friendly and regional content,
+   Drama and Comedy are the most popular genres on both platforms,
+   OTT content production increased significantly after 2015
+   This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
 
 6. Dashboard Preview
 
