@@ -42,60 +42,59 @@
 
 5. Features / Highlights
 
- • Business Problem : OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
-   Because of this, it is difficult to:
-   Compare content between platforms,
-   Understand which genres and ratings are most common,
-   Analyze which regions produce more content,
-   Track how content has grown over the years,
-   Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
+   • Business Problem : OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
+     Because of this, it is difficult to:
+     Compare content between platforms,
+     Understand which genres and ratings are most common,
+     Analyze which regions produce more content,
+     Track how content has grown over the years,
+     Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
 
- • Goal of the Dashboard :
-   The goal of this dashboard is to:
-   Compare Netflix and Prime Video content using key metrics,
-   Analyze content by genre, rating, and type (Movies vs TV Shows),
-   Understand regional content distribution,
-   Track content growth trends over time,
-   This helps users make informed decisions based on visual insights.
+   • Goal of the Dashboard :
+     The goal of this dashboard is to:
+     Compare Netflix and Prime Video content using key metrics,
+     Analyze content by genre, rating, and type (Movies vs TV Shows),
+     Understand regional content distribution,
+     Track content growth trends over time,
+     This helps users make informed decisions based on visual insights.
 
- • Walkthrough of Key Visuals :
+   • Walkthrough of Key Visuals :
  
-  • KPI Cards: 
+     • KPI Cards: 
   
-   -Show total titles, genres, directors, and release year range 
+     -Show total titles, genres, directors, and release year range 
   
-  • Rating-wise Chart:
+     • Rating-wise Chart:
   
-   -Shows audience age categories and maturity levels
+     -Shows audience age categories and maturity levels
   
-  • Genre-wise Chart: 
+     • Genre-wise Chart: 
   
-   -Displays most popular content genres
+     -Displays most popular content genres
   
-  • Movies vs TV Shows Donut Chart:
+     • Movies vs TV Shows Donut Chart:
   
-   -Compares content type distribution
+     -Compares content type distribution
   
-  • Country-wise Map: 
+     • Country-wise Map: 
   
-   -Shows content availability across regions
+     -Shows content availability across regions
   
-  • Release Year Line Chart:
+     • Release Year Line Chart:
   
-   -Shows content growth over time
+     -Shows content growth over time
   
-  • Page Navigation:
+     • Page Navigation:
   
-   -Allows easy comparison between Netflix and Prime Video dashboards
+     -Allows easy comparison between Netflix and Prime Video dashboards
 
- • Business Impact & Insights :
-   Netflix focuses more on international and mature-rated content,
-   Prime Video has a more balanced mix of family-friendly and regional content,
-   Drama and Comedy are the most popular genres on both platforms,
-   OTT content production increased significantly after 2015
-   This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
+   • Business Impact & Insights :
+     Netflix focuses more on international and mature-rated content,
+     Prime Video has a more balanced mix of family-friendly and regional content,
+     Drama and Comedy are the most popular genres on both platforms,
+     OTT content production increased significantly after 2015
+     This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
 
 6. Dashboard Preview
-
 [Netflix Dashboard](https://github.com/Sayalihanwante/ott-platform-analysis/blob/main/Netflix-dashboard.png)
 [Prime Video Dashboard](https://github.com/Sayalihanwante/ott-platform-analysis/blob/main/primevideo-dashboard.png)
