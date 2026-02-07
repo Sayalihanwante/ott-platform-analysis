@@ -51,20 +51,13 @@
 
 5. Features / Highlights
 
-  • Business Problem :
-
-    OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
-    Because of this, it is difficult to:
-    
-   • Compare content between platforms
-  
-   • Understand which genres and ratings are most common
-  
-   • Analyze which regions produce more content
-  
-   • Track how content has grown over the years
-   
-     Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
+•  Business Problem : OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
+   Because of this, it is difficult to:
+   Compare content between platforms
+   Understand which genres and ratings are most common
+   Analyze which regions produce more content
+   Track how content has grown over the years
+   Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
 
 • Goal of the Dashboard :
 
