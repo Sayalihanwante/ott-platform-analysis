@@ -1,10 +1,9 @@
 # ott-platform-analysis
 1. Project Title / Headline
+   OTT Content Analytics: Netflix vs Amazon Prime Video Dashboard
+   A dynamic and interactive Power BI dashboard designed to analyze and compare content libraries of leading OTT platforms based on genres, ratings, content type, regions, and release trends.
 
-OTT Content Analytics: Netflix vs Amazon Prime Video Dashboard
-A dynamic and interactive Power BI dashboard designed to analyze and compare content libraries of leading OTT platforms based on genres, ratings, content type, regions, and release trends.
-
-2. Short Description / Purpose
+3. Short Description / Purpose
    
 This dashboard provides a comparative analysis of Netflix and Amazon Prime Video to help users understand differences in content strategy, audience targeting, and platform growth.
 It enables data-driven insights through interactive visuals and platform-wise comparison using page navigation.
@@ -12,6 +11,7 @@ It enables data-driven insights through interactive visuals and platform-wise co
 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 🟡 Power BI Desktop – Primary tool for building interactive dashboards
 
 🔄 Power Query – Data cleaning, transformation, and preparation
