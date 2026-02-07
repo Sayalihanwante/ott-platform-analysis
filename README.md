@@ -64,5 +64,5 @@ This helps users make informed decisions based on visual insights.
 This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
 
 6. Dashboard Preview
-[Netflix Dashboard]()
+[Netflix Dashboard](https://github.com/Sayalihanwante/ott-platform-analysis/blob/main/Netflix-dashboard.png)
 [Prime Video Dashboard]()
