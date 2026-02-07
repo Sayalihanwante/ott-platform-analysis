@@ -65,4 +65,4 @@ This dashboard helps stakeholders benchmark platforms, identify trends, and plan
 
 6. Dashboard Preview
 [Netflix Dashboard](https://github.com/Sayalihanwante/ott-platform-analysis/blob/main/Netflix-dashboard.png)
-[Prime Video Dashboard]()
+[Prime Video Dashboard](https://github.com/Sayalihanwante/ott-platform-analysis/blob/main/primevideo-dashboard.png)
