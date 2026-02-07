@@ -24,8 +24,8 @@
    📁 File Formats – .pbix for development and .png for dashboard previews
 
 4. Data Source
-   The data used in this project was collected from Kaggle and includes publicly available datasets for OTT platforms:
    
+   The data used in this project was collected from Kaggle and includes publicly available datasets for OTT platforms:
    • Netflix Movies & TV Shows Dataset (Kaggle)
    • Amazon Prime Video Dataset (Kaggle)
    
