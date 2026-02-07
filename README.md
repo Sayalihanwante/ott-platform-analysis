@@ -11,50 +11,50 @@
 
 3. Tech Stack
 
-The dashboard was built using the following tools and technologies:
+   The dashboard was built using the following tools and technologies:
 
-🟡 Power BI Desktop – Primary tool for building interactive dashboards
+  🟡 Power BI Desktop – Primary tool for building interactive dashboards
 
-🔄 Power Query – Data cleaning, transformation, and preparation
+  🔄 Power Query – Data cleaning, transformation, and preparation
 
-🧮 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
+  🧮 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
 
-🧩 Data Modeling – Relationships between content, genre, rating, and country tables
+  🧩 Data Modeling – Relationships between content, genre, rating, and country tables
 
-📁 File Formats – .pbix for development and .png for dashboard previews
+  📁 File Formats – .pbix for development and .png for dashboard previews
 
 4. Data Source
    
    The data used in this project was collected from Kaggle and includes publicly available datasets for OTT platforms:
    
-  • Netflix Movies & TV Shows Dataset (Kaggle)
+   • Netflix Movies & TV Shows Dataset (Kaggle)
    
-  • Amazon Prime Video Dataset (Kaggle)
+   • Amazon Prime Video Dataset (Kaggle)
    
-  The datasets contain information such as:
+   The datasets contain information such as:
   
- • Title name
+  • Title name
 
- • Content type (Movie / TV Show)
+  • Content type (Movie / TV Show)
 
- • Genre
+  • Genre
 
- • Age rating 
+  • Age rating 
   
- • Country
+  • Country
   
- • Release year
+  • Release year
   
- • Director
+  • Director
   
   These datasets were cleaned, transformed, and modeled using Power Query before visualization in Power BI
 
 5. Features / Highlights
 
-1. Business Problem :
+  • Business Problem :
 
-   OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
-   Because of this, it is difficult to:
+    OTT platforms like Netflix and Amazon Prime Video have very large content libraries.
+    Because of this, it is difficult to:
     
    • Compare content between platforms
   
@@ -64,11 +64,11 @@ The dashboard was built using the following tools and technologies:
   
    • Track how content has grown over the years
    
-Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
+     Without a data-driven comparison, stakeholders cannot clearly understand content strategy differences between platforms.
 
-2. Goal of the Dashboard :
+• Goal of the Dashboard :
 
-The goal of this dashboard is to:
+   The goal of this dashboard is to:
 
  • Compare Netflix and Prime Video content using key metrics
   
@@ -78,9 +78,9 @@ The goal of this dashboard is to:
  
  • Track content growth trends over time
  
-This helps users make informed decisions based on visual insights.
+   This helps users make informed decisions based on visual insights.
 
-3. Walkthrough of Key Visuals :
+• Walkthrough of Key Visuals :
  
   • KPI Cards: Show total titles, genres, directors, and release year range 
   
@@ -96,7 +96,7 @@ This helps users make informed decisions based on visual insights.
   
   • Page Navigation: Allows easy comparison between Netflix and Prime Video dashboards
 
-4. Business Impact & Insights :
+• Business Impact & Insights :
 
   • Netflix focuses more on international and mature-rated content
   
@@ -106,7 +106,7 @@ This helps users make informed decisions based on visual insights.
   
   • OTT content production increased significantly after 2015
   
-This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
+   This dashboard helps stakeholders benchmark platforms, identify trends, and plan content strategies using data.
 
 6. Dashboard Preview
 
