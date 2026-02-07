@@ -12,11 +12,11 @@ It enables data-driven insights through interactive visuals and platform-wise co
 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
-Power BI Desktop – Primary tool for building interactive dashboards
-Power Query – Data cleaning, transformation, and preparation
-DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
-Data Modeling – Relationships between content, genre, rating, and country tables
-File Format – .pbix for development and .png for dashboard previews
+• Power BI Desktop – Primary tool for building interactive dashboards
+• Power Query – Data cleaning, transformation, and preparation
+• DAX (Data Analysis Expressions) – Used for calculated measures and KPIs
+• Data Modeling – Relationships between content, genre, rating, and country tables
+• File Format – .pbix for development and .png for dashboard previews
 
 4. Data Source
 
